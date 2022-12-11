@@ -121,6 +121,6 @@ print("Task 6")
 print()  # indicates a space
 # A program that prints the speed a dog covered at a given time
 distance = 80.0  # distance the dog covered
-time = 16.0     # time the dog covered
+time = 17.0     # time the dog covered
 speed = distance / time     # formular for speed
 print("The dog covered a distance of " f"{speed}" " m/s")   # result
